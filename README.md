@@ -14,6 +14,6 @@ Before running the web scraping script, you need to have the following dependenc
 - Beautiful Soup 4
 - Requests
 
-- `manga_webscraper.py`: This is the Python script that contains the web scraping code to collect manga data from the manga website.
-- `manga.csv`: This is the CSV file that stores the collected manga data with columns "Title", "Score", "Year", and "Rank".
+- `top_50_manga_scrap.py`: This is the Python script that contains the web scraping code to collect manga data from the manga website.
+- `manga_top_50.csv`: This is the CSV file that stores the collected manga data with columns "Title", "Score", "Year", and "Rank".
 - `README.md`: This is the Markdown file that provides documentation and information about the project.
